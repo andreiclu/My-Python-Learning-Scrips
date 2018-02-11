@@ -1,2 +1,2 @@
-# my-python-learning-scrips
-my python learning scrips
+# my-python-learning-scripts
+my python learning scripts
